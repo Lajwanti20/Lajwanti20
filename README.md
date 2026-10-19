@@ -8,12 +8,12 @@ Passionate Mobile Application Developer with 2 years of experience building cros
 
 ### 💼 Professional Experience
 
-- **Flutter Developer** @ K-Labs Technology Solutions *(Feb 2026 – Sep 2026)*[cite: 2]
-  - Worked on the **Abayty App**, **Faz3a Customer & Vendor Apps**, and **RCSI AI Healthcare App**, building custom UIs, map-based location tracking, and real-time AI chat features[cite: 2].
-- **Flutter Developer** @ POSH Textiles Inc *(Jul 2024 – Mar 2025)*[cite: 2]
-  - Integrated company ERP with Microsoft Dynamics 365 Business Central for real-time synchronization[cite: 2].
-- **Junior Flutter Developer** @ K-Labs Technology Solutions *(Aug 2023 – Jun 2024)*[cite: 2]
-  - Developed the Bahrain Basketball Association app for schedules, results, and team rankings[cite: 2].
+- **Flutter Developer** @ K-Labs Technology Solutions *(Feb 2026 – Sep 2026)*.
+  - Worked on the **Abayty App**, **Faz3a Customer & Vendor Apps**, and **RCSI AI Healthcare App**, building custom UIs, map-based location tracking, and real-time AI chat features.
+- **Flutter Developer** @ POSH Textiles Inc *(Jul 2024 – Mar 2025)*.
+  - Integrated company ERP with Microsoft Dynamics 365 Business Central for real-time synchronization.
+- **Junior Flutter Developer** @ K-Labs Technology Solutions *(Aug 2023 – Jun 2024)*.
+  - Developed the Bahrain Basketball Association app for schedules, results, and team rankings.
 
 ---
 
