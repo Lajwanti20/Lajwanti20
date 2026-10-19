@@ -67,7 +67,7 @@ Passionate Mobile Application Developer with 2 years of experience building cros
 </p>
 
 #### 🚀 Development Practices
-- Responsive UI, Material Design, Push Notifications, Lazy Loading, Real-Time Data Integration, API Error Handling, Third-Party Library Integration[cite: 2].
+- Responsive UI, Material Design, Push Notifications, Lazy Loading, Real-Time Data Integration, API Error Handling, Third-Party Library Integration.
 
 ---
 
