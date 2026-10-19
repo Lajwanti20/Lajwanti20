@@ -73,15 +73,24 @@ Passionate Mobile Application Developer with 2 years of experience building cros
 
 ### 🎓 Education & Certifications
 
-- **Bachelor of Science in Computer Science** — University of Sindh (Jamshoro)[cite: 2]
-- **Mobile App Development** — National Vocational and Technical Training Commission (NAVTTC)[cite: 2]
+- **Bachelor of Science in Computer Science** — University of Sindh (Jamshoro).
+- **Mobile App Development** — National Vocational and Technical Training Commission (NAVTTC).
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Activity
 
-![Lajwanti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lajwanti20&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lajwanti20&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lajwanti20&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Lajwanti's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lajwanti20&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lajwanti20&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
