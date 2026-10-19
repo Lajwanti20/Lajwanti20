@@ -77,11 +77,10 @@ Passionate Mobile Application Developer with 2 years of experience building cros
 - **Mobile App Development** — National Vocational and Technical Training Commission (NAVTTC).
 
 ---
-
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lajwanti20&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Lajwanti's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Lajwanti20&show_icons=true&theme=radical&hide_border=true" alt="Lajwanti's GitHub Stats" />
 </p>
 
 <p align="center">
@@ -91,7 +90,6 @@ Passionate Mobile Application Developer with 2 years of experience building cros
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lajwanti20&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
-
 ---
 
 ### 📫 Connect with Me
