@@ -80,8 +80,8 @@ Passionate Mobile Application Developer with 2 years of experience building cros
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Lajwanti20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lajwanti20&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=Lajwanti20&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Lajwanti20&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
