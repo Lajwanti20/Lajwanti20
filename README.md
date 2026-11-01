@@ -87,7 +87,7 @@ Passionate Mobile Application Developer with 2 years of experience building cros
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Lajwanti20&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
----
+
 
 ### 📫 Connect with Me
 
